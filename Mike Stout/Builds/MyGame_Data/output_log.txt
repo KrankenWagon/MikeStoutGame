@@ -1,0 +1,127 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     2975 MB
+    Driver:   22.21.13.8165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.200 seconds
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Caleb\Documents\School Work\IntroDigDesign\Unity\Mike Stout\Builds\MyGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Water') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 2.013652 ms
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Material:Internal_CreateWithShader (UnityEngine.Material,UnityEngine.Shader)
+  at UnityEngine.Material..ctor (UnityEngine.Shader shader) [0x00000] in <filename unknown>:0 
+  at LaserRotator.DrawLine (Vector3 start, Vector3 end, Color color, Single duration) [0x00000] in <filename unknown>:0 
+  at LaserRotator.SetLinePos (Vector3 start, Vector3 end) [0x00000] in <filename unknown>:0 
+  at LaserRotator.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27f0 -> priority: 1 
+  Thread -> id: 1ac8 -> priority: 1 
+Bullet deals 10 damage to player.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet deals 10 damage to player.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Bullet deals 10 damage to player.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
